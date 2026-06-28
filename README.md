@@ -168,11 +168,7 @@ git push origin feature-name
 
 ---
 
-📜 License
 
-This project is licensed under the MIT License.
-
----
 
 👨‍💻 Author
 
@@ -181,7 +177,6 @@ Omkar Varnekar
 GitHub: https://github.com/OmKarvrneKar
 
 ---
-
-⭐ Support
+Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub and sharing it with others.
